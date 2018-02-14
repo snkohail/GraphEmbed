@@ -1,200 +1,50 @@
-hair	iron	18.0
-curl	hair	20.0
-hair	straight	21.0
-frizz	hair	15.0
-dry	hair	23.0
-curly	wavy	14.0
-blow	dry	18.0
-hair	straighten	15.0
-hair	heat	13.0
-blow	hair	16.0
-frizzy	hair	16.0
-curls	hair	14.0
-damage	hair	14.0
-blow	drying	12.0
-curls	frizz	12.0
-conditioner	leave	13.0
-get	iron	13.0
-had	iron	16.0
-hair	using	16.0
-blow	iron	11.0
-blow	straight	11.0
-curls	great	11.0
-curly	dry	11.0
-curly	frizzy	11.0
-dry	frizzy	11.0
-dry	straighten	11.0
-hair	length	17.0
-comb	hair	15.0
-drying	hair	13.0
-hair	time	16.0
-blow	straighten	10.0
-curls	waves	10.0
-curly	thick	10.0
-dry	iron	10.0
-free	frizz	10.0
-hair	irons	10.0
-iron	one	10.0
-hair	smooth	16.0
-conditioner	shampoo	13.0
-hair	shine	13.0
-conditioner	used	11.0
-hair	styling	11.0
-hair	wavy	12.0
-hair	product	16.0
-hair	used	17.0
-hair	leaves	14.0
-brush	dryer	9.0
-chi	iron	9.0
-curls	iron	9.0
-curls	look	9.0
-curly	fine	9.0
-curly	straight	9.0
-damage	iron	9.0
-dryer	iron	9.0
-dryer	used	9.0
-flat	ironing	9.0
-frizzy	wavy	9.0
-straighten	straightener	9.0
-hair	shiny	12.0
-iron	used	12.0
-iron	works	15.0
-fine	thick	11.0
-hair	one	11.0
-hair	shampoo	11.0
-conditioner	hair	10.0
-curl	get	10.0
-curl	hold	10.0
-iron	price	10.0
-hair	makes	14.0
-ends	hair	11.0
-color	dry	8.0
-curl	straighten	8.0
-curl	wave	8.0
-curly	long	8.0
-dry	ends	8.0
-dry	flat	8.0
-fine	straight	8.0
-frizzes	hair	8.0
-frizz	smooth	8.0
-hair	straightened	8.0
-iron	straighten	8.0
-styling	time	8.0
-thick	wavy	8.0
-dry	shampoo	10.0
-good	iron	10.0
-curly	hair	14.0
-conditioner	product	9.0
-conditioner	using	9.0
-feeling	hair	9.0
-hair	highlighted	9.0
-hair	treated	9.0
-product	shampoo	9.0
-shiny	silky	9.0
-dry	leave	11.0
-hair	tried	11.0
-shampoo	used	11.0
-shampoo	using	11.0
-done	hair	10.0
-dries	hair	10.0
-hair	leave	10.0
-hair	soft	13.0
-hair	thick	13.0
-hair	style	12.0
-leave	used	12.0
-brush	hair	11.0
-coarse	thick	9.0
-conditioner	great	9.0
-course	hair	9.0
-hair	scalp	9.0
-hair	straightener	9.0
-hair	worked	9.0
-iron	straightening	9.0
-hair	work	12.0
-adds	shine	7.0
-conditioner	left	7.0
-curled	hair	7.0
-curl	iron	7.0
-curl	looking	7.0
-curl	product	7.0
-curls	frizzy	7.0
-curls	last	7.0
-curly	kinky	7.0
-curly	look	7.0
-did	iron	7.0
-dryer	had	7.0
-dryer	one	7.0
-dryer	took	7.0
-dry	shiny	7.0
-dry	straight	7.0
-dry	straightening	7.0
-frizzy	leaves	7.0
-frizzy	smooth	7.0
-frizzy	thick	7.0
-get	straightening	7.0
-hair	permed	7.0
-hair	serum	7.0
-hair	tame	7.0
-iron	look	7.0
-iron	straightener	7.0
-one	shampoo	7.0
-straight	wavy	7.0
-straight	wet	7.0
-coarse	hair	10.0
-damaged	hair	10.0
-bought	iron	8.0
-conditioner	works	8.0
-curl	great	8.0
-damp	put	8.0
-drying	using	8.0
-dry	smooth	8.0
-hair	relaxed	8.0
-hair	silky	8.0
-hair	straightens	8.0
-ironing	time	8.0
-iron	iron	8.0
-hair	works	13.0
-air	dry	12.0
-dry	take	11.0
-iron	using	9.0
-silky	soft	9.0
-does	hair	10.0
-doesn	hair	10.0
-great	iron	10.0
-hair	spray	10.0
-color	hair	11.0
-bleached	hair	8.0
-blow	put	8.0
-damp	dry	8.0
-dry	dryer	8.0
-feeling	silky	8.0
-feels	hair	8.0
-gel	hair	8.0
-hair	smell	8.0
-hair	tangles	8.0
-iron	ve	8.0
-leave	shiny	8.0
-drying	time	10.0
-dry	product	10.0
-hair	hold	10.0
-dry	soft	9.0
-hair	looking	9.0
-straight	using	9.0
-get	hair	13.0
-dryer	hair	12.0
-blow	dryer	7.0
-bought	dryer	7.0
-comb	get	7.0
-conditioner	tried	7.0
-curls	get	7.0
-dryer	makes	7.0
-flat	hair	7.0
-found	shampoo	7.0
-go	shampoo	7.0
-hair	set	7.0
-hair	volume	7.0
-iron	purchased	7.0
-iron	tried	7.0
-is	straighten	7.0
-look	smooth	7.0
-makes	shampoo	7.0
+Ashley	Christopher
+Ashley	Emily
+Ashley	Joshua
+Bart	Lisa
+Bart	Matthew
+Christopher	Andrew
+Emily	Joshua
+Jacob	Christopher
+Jessica	Ashley
+JorEl	Zod
+KalEl	JorEl
+Kyle	Lex
+Kyle	Zod
+Lisa	Marge
+Matthew	Lisa
+Michael	Christopher
+Michael	Joshua
+Michael	Jessica
+Samantha	Matthew
+Samantha	Tyler
+Sarah	Andrew
+Sarah	Christopher
+Sarah	Emily
+Tyler	Kyle
+Stuart	Jacob
+Christopher	Ashley
+Emily	Ashley
+Joshua	Ashley
+Lisa	Bart
+Matthew	Bart
+Andrew	Christopher
+Joshua	Emily
+Christopher	Jacob
+Ashley	Jessica
+Zod	JorEl
+JorEl	KalEl
+Lex	Kyle
+Zod	Kyle
+Marge	Lisa
+Lisa	Matthew
+Christopher	Michael
+Joshua	Michael
+Jessica	Michael
+Matthew	Samantha
+Tyler	Samantha
+Andrew	Sarah
+Christopher	Sarah
+Emily	Sarah
+Kyle	Tyler
+Jacob	Stuart
